@@ -1,0 +1,1 @@
+Si el perro come, entonces el gato duerme. Si el gato duerme o el perro corre, entonces Ana trabaja. El perro come. El perro no corre. No es cierto que el gato duerme y el perro corre.
